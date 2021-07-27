@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sachin1O1
-- 👀 I’m interested in SRE
+- 👀 I’m interested in SRE / Devops
 - 🌱 I’m currently learning terraform, azure monitoring for aks and micro services 
 - 💞️ I’m looking to collaborate on project related to SRE
 - 📫 reach me at kanozia.sachin@gmail.com
